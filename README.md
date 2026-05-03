@@ -4,6 +4,8 @@ This is a repository to host all of my weeknotes whilst working my way through T
 
 ## Projects
 
+- [Project 1: Odin Recipes](proj01.md)
+
 ## Weeknotes
 
 - [Week 3: Foundations 45%](03.md) 14th November 2025
