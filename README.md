@@ -2,6 +2,9 @@
 
 This is a repository to host all of my weeknotes whilst working my way through The Odin Project.
 
+## Reasons
+- [Reasons To Learn Web Development](reasons.md)
+
 ## Projects
 
 - [Project 3: Rock, Paper, Scissors](proj03.md)
