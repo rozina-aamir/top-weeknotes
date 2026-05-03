@@ -8,6 +8,7 @@ This is a repository to host all of my weeknotes whilst working my way through T
 
 ## Weeknotes
 
+- [Week 18: Foundations 80%](18.md) **27th February 2026**
 - [Week 17: Foundations 80%](17.md) **20th February 2026**
 - [Week 16: Foundations 80%](16.md) **13th February 2026**
 - [Week 15: Foundations 79%](15.md) **6th February 2026**
