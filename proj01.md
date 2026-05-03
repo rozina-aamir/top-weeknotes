@@ -1,7 +1,7 @@
 ## Week 3: Project 1: Odin Recipes
 
-[GitHub repo: ](https://github.com/rozina-aamir/odin-recipes)
-[Live site: ](https://rozina-aamir.github.io/odin-recipes/index.html)
+- [GitHub repo](https://github.com/rozina-aamir/odin-recipes)
+- [Live site](https://rozina-aamir.github.io/odin-recipes/index.html)
 
 This is a simple and barebones recipe site created using just HTML.
 
