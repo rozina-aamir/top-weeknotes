@@ -2,13 +2,13 @@
 **Date**
 
 ## Recap
-Provide a brief overview of what you did during the week
+*Provide a brief overview of what you did during the week*
 
 ## Highs
-Write a sentence or two of what went well
+*Write a sentence or two of what went well*
 
 ## Lows
-Write a sentence or two of what didn't go well
+*Write a sentence or two of what didn't go well*
 
 ## Plans For Next Week
-Briefly explain your plans for the week ahead
+*Briefly explain your plans for the week ahead*
