@@ -4,6 +4,7 @@ This is a repository to host all of my weeknotes whilst working my way through T
 
 ## Projects
 
+- [Project 3: Rock, Paper, Scissors](proj03.md)
 - [Project 2: Landing Page](proj02.md)
 - [Project 1: Odin Recipes](proj01.md)
 
